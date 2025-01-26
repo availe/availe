@@ -2,6 +2,8 @@
 
 Check out my [Resume Builder](https://resume-builder.availe.io)!
 
+Alternatively, check out the [video demo](https://youtu.be/vzwMjmTWf1A?si=QHlw28jTsVAUEVvl)
+
 <!--
 **availe/availe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
